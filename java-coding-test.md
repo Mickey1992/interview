@@ -4,9 +4,9 @@
 
 ## 1. コーディング環境・問題
 
-- **オンラインエディタ：準備中**
+- **オンラインエディタ：[https://code-share.online/session/1cd7d78f-9c5f-4f89-8526-9def9e157153](https://code-share.online/session/1cd7d78f-9c5f-4f89-8526-9def9e157153)**
 
-- **問題文：準備中**
+- **問題文：[Two Sum (リンクをクリックしてください)](./CodeInterview_TwoSum.md)**
 
 - 面談開始の約30分前までに、こちらにURLを掲載します。(`code-share.online`利用予定)
 
